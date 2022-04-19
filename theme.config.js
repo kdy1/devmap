@@ -7,6 +7,8 @@ export default {
   prevLinks: true,
   search: true,
   customSearch: null, // customizable, you can use algolia for example
+  unstable_stork: true,
+  floatTOC: true,
   darkMode: true,
   footer: true,
   footerText: `MIT ${new Date().getFullYear()} © kdy1.`,
