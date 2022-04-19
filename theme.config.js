@@ -3,8 +3,8 @@ export default {
   projectLink: 'https://github.com/kdy1/devmap',
   docsRepositoryBase: 'https://github.com/kdy1/devmap/blob/main',
   titleSuffix: ' – Dev Map',
-  nextLinks: true,
-  prevLinks: true,
+  nextLinks: false,
+  prevLinks: false,
   search: true,
   customSearch: null, // customizable, you can use algolia for example
   unstable_stork: true,
