@@ -1,4 +1,5 @@
 {
   "node-js": "Node.JS",
-  "next-js": "next.js"
+  "next-js": "next.js",
+  "transpiler": "트랜스파일러"
 }
